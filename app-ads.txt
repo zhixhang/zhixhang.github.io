@@ -1,1 +1,2 @@
 google.com, pub-6159460555141131, DIRECT, f08c47fec0942fa0
+yandex.ru, XXXXXX, DIRECT
